@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Bad+Script');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+body {
+    background-color: #7291be;
+}
+h1 {
+    color: white;
+    font-family: 'Bad Script', cursive;
+    font-size: 60px;
+}
+h2 {
+    font-size: 40px;
+}
